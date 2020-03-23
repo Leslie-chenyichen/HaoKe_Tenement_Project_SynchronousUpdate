@@ -1,8 +1,12 @@
+项目运行在网络中•说明文件
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+该项目是通过[Create React App启动的](https://github.com/facebook/create-react-app)。
 
-In the project directory, you can run:
+## Available Scripts  可用脚本
+
+In the project directory, you can run: 在项目目录中，可以运行：
 
 ### `yarn start`
 
